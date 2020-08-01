@@ -73,11 +73,6 @@ cd ~/MagicMirror/modules/
 git clone https://github.com/eouia/MMM-AssistantMk2
 cd MMM-AssistantMk2
 npm install
-cd scripts
-chmod +x *.sh
-cd ..
-npm install --save-dev electron-rebuild
-./node_modules/.bin/electron-rebuild
  ```
 
 ### STEP6. Configure Google Assistant Module
