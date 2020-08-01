@@ -76,6 +76,9 @@ npm install
  ```
 
 ### STEP6. Configure Google Assistant Module
+
+https://sy34.net/aiy-voice-kit-v2ro-gugeul-seupikeo-mandeulgi-2/
+
 1. Open the Google Action Console and create a new project
 ```
 https://console.actions.google.com
