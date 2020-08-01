@@ -38,6 +38,9 @@ sudo apt-get update
 sudo apt-get install npm
 sudo npm install -g npm@latest
 bash -c "$(curl -sL https://raw.githubusercontent.com/MichMich/MagicMirror/master/installers/raspberry.sh)"
+
+- 변경되었다.
+bash -c "$(curl -sL https://raw.githubusercontent.com/sdetweil/MagicMirror_scripts/master/raspberry.sh)"
 ```
 
 ### STEP5. Installing Magic Mirror Modules
@@ -189,3 +192,12 @@ Go to the location where the Magic Mirror is and start the application
 cd ~/MagicMirror
 npm start
 ```
+
+
+- snowboy
+https://blog.naver.com/PostView.nhn?blogId=naininfo&logNo=221565643529&parentCategoryNo=&categoryNo=11&viewDate=&isShowPopularPosts=true&from=search
+
+https://m.blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=221328328264&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+https://m.blog.naver.com/PostView.nhn?blogId=chandong83&logNo=221147785877&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
