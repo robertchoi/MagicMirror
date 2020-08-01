@@ -60,6 +60,11 @@ chmod +x ./installer/install.sh
 - follow as below
 https://github.com/bugsounet/MMM-Snowboy
 
+cd ~/MagicMirror/modules/
+git clone https://github.com/bugsounet/MMM-Snowboy
+cd MMM-Snowboy
+npm install
+
 ```
 
 3. Install MMM-AssistantMk2
