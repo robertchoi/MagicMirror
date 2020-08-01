@@ -56,6 +56,10 @@ git clone https://github.com/eouia/MMM-Hotword.git
 cd MMM-Hotword
 chmod +x ./installer/install.sh
 ./installer/install.sh
+
+- follow as below
+https://github.com/bugsounet/MMM-Snowboy
+
 ```
 
 3. Install MMM-AssistantMk2
